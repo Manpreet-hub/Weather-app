@@ -1,0 +1,32 @@
+*{
+    font-family: 'Jost', sans-serif;
+}
+.box{
+    display: block;
+    margin: auto;
+    width: 40%;
+    background-color: cadetblue;
+    height: 440px;
+    border-radius: 0.6rem;
+    border: 0.1rem solid;
+    margin-top: 6rem;
+}
+
+.inputField{
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    border: 0.1rem solid;
+    margin: auto;
+    display: block;
+    width: 30%;
+    max-width: 30%;
+    margin-top: 2rem;
+}
+.info{
+    text-align: center;
+    margin-top: 4rem;
+}
+.error-msg{
+   text-align: center;
+   font-size: 1.5rem;
+}
